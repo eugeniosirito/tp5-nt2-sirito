@@ -1,5 +1,3 @@
-# juego_colores_vuecli_v2
-
 ## Project setup
 ```
 npm install
